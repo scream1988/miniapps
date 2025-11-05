@@ -1,0 +1,9 @@
+{
+  "name": "assder",
+  "description": "Simple app running on Base network",
+  "url": "https://my-miniapp.vercel.app",
+  "icon": "https://my-miniapp.vercel.app/icon.png",
+  "version": "1.0.0",
+  "chains": ["base"],
+  "addresses": ["0x6570f9Dc370fb708de62465805A20283eB4Ea284"]
+}
